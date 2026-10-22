@@ -25,5 +25,9 @@
     - Rama release
     - Rama hotfix
     - Rama de soporte
-- **GitHub Flow**
+- **GitHub Flow** (Flujo de Trabajo para entornos colaborativos)
+    - Crear una rama
+    - Haz un commit 
+    - Preparar un pull request
+    - Git push
 - **Manejo de submódulos y subárboles**
