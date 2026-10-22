@@ -19,5 +19,11 @@
 ## Flujos de Trabajo Avanzados
 
 - **Git Flow**
+    - Rama principal (main, master)
+    - Rama de desarrollo (develop)
+    - Rama de características (features)
+    - Rama release
+    - Rama hotfix
+    - Rama de soporte
 - **GitHub Flow**
 - **Manejo de submódulos y subárboles**
