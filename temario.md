@@ -33,3 +33,5 @@
 - **Manejo de submódulos y subárboles**
     - Submódulos: integrar un repositorio dentro de otro (mantienes el historial separado)
     - Subárboles: integrar un repositorio dentro de otro como un subdirectorio (fusiona el historial con el padre)
+- **GitHub Actions**
+    
